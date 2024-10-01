@@ -8,8 +8,8 @@ function HeroHeaderSection() {
         <div className="text-white inline-block bg-primary p-2 rounded-[100px] text-[10px] font-semibold">
           New
         </div>
-        <p className="text-[#31373D]">
-          How Pallet uses Attio to power their GTM
+        <p className="text-[#31373D] cursor-pointer">
+          <a href="/">How Pallet uses Attio to power their GTM</a>
         </p>
         <div>
           <ChevronRight />
