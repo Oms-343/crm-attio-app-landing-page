@@ -1,35 +1,14 @@
-# Attio
 Sleek and modern CRM website built with Next14, Shadcn, and Tailwind.
 
-# ☁️ Deployed link
-https://attio-three.vercel.app/
+Live link [page]()
 
-# 📺Youtube:  
-https://youtu.be/8TLM1yQsmwY
+Figma [design](<https://www.figma.com/design/86icibkHxB38hIHNpHGCPh/Attio---CRM-Landing-Page-%26-Mobile-Responsive-(Community)?node-id=0-1&t=WUIuy5sHKL9yTndt-1>)
 
-# 🎨Figma: 
-https://www.figma.com/design/4T1MpexImPymvIl8WgRfuS/Attio---CRM-Landing-Page-%26-Mobile-Responsive-(Community)?node-id=0-1&node-type=canvas&t=HEmismHyP95BOjwM-0
+## Project details
 
+The following external libraries/packages are used in this project
 
-# ⛏️ Installation
-To follow along the tutorial. Change to the starter branch  after cloning the repo.
-Then install the npm packages & run
-```bash
-npm install && npm run dev
-```
-
-
-## 🔓 Stack
-- Next14
-- Typescript
-- Shadcn
-- Tailwind
-
-## 🔓 Benefits
-- Mobile Responsiveness
-- Learn all the stack in one video
-
-## Author
-Built with love ❤️ by Pius Lucky https://luckypius.netlify.app/
-
-
+- [Framer Motion](https://www.framer.com/motion) - For animations
+- [next-svgr](https://www.npmjs.com/package/next-svgr) - to convert plain svgs into react components
+- [clsx](https://www.npmjs.com/package/clsx) - combining tailwind classes
+- [shadCn](https://ui.shadcn.com/) - component library
